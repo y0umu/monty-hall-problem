@@ -10,4 +10,4 @@ Switch wins 0.66878
 Done
 ```
 
-There are too many others who don't believe have written their version of simuation [in this very Github](https://github.com/search?q=monty+hall)
+There are too many others who don't believe have written their version of simuation [in this very GitHub](https://github.com/search?q=monty+hall)

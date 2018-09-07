@@ -40,7 +40,7 @@ def openDoor(car_door_ind, init_choice):
     It should not open the door that has a car behind it or the player's init_choice
 
     @param car_door_ind: int. The index of doors that indicates there is car behind this index
-    @parma init_choice: int. The index of doors that indicates the player's initial choice
+    @param init_choice: int. The index of doors that indicates the player's initial choice
 
     Returns
     @ret door_to_open_ind: int. the index of which door is opened
@@ -55,7 +55,7 @@ def openDoor(car_door_ind, init_choice):
 def switchChoice(opend_door, init_choice):
     """
     Switch to availabe door otherside than the init_choice
-    @parma opend_door: int. the index of door that is opend
+    @param opend_door: int. the index of door that is opend
     @init_choice: int. 
 
     Returns
